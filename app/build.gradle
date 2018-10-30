@@ -43,7 +43,7 @@ dependencies {
     implementation "androidx.room:room-runtime:$room_version"
     kapt "androidx.room:room-compiler:$room_version"
 
-//    implementation "org.jetbrains.anko:anko-commons:$anko_version"
+    implementation "org.jetbrains.anko:anko-commons:$anko_version"
 //    implementation "org.jetbrains.anko:anko-sqlite:$anko_version"
 
     testImplementation 'junit:junit:4.12'
